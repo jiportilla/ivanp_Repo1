@@ -1,7 +1,11 @@
+<<<<<<< HEAD
+***** Part1-A-Step9
+=======
 *** ----  *****   Part3 - B - 7
 In GitHub, move to the master branch and edit (using the pencil) file1.txt. Specifically, change the first line of the file. Then commit it.
 
 Part1-A-Step9
+>>>>>>> cb495cda97147f41380b4fd6f1d27b8a4fa09837
 
 
 **** update
