@@ -11,6 +11,13 @@ Part2-B-Step9
 *** update
 Part3-A-Step2
 
+***
+Part3-A-Step6
+
+***
+Part3-A-Step10
+
+
 
 file1
 file1
