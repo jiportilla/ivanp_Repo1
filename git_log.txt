@@ -1,0 +1,25 @@
+commit 10a95a9c7232cbd4310380e50cec3dbb2602490e
+Author: Ivan Portilla <portilla@gmail.com>
+Date:   Tue Jul 16 10:32:34 2019 -0600
+
+    I did Part3-A-Step2
+
+commit d58e208ab56f5d14dda60690699d8258948d61c3
+Author: Ivan Portilla <ivanp@us.ibm.com>
+Date:   Tue Jul 16 10:15:44 2019 -0600
+
+    I added a sentence
+    
+    I added sentence  Part2-B-Step16
+
+commit 6d812c64a34add06389e97ab5666e65b2d72e271
+Author: Ivan Portilla <portilla@gmail.com>
+Date:   Tue Jul 16 10:11:21 2019 -0600
+
+    I changed file1 and added file2
+
+commit bb2d58aa287052bd05f48cad9e7de6a429afe7e8
+Author: Ivan Portilla <portilla@gmail.com>
+Date:   Tue Jul 16 09:46:15 2019 -0600
+
+    Initial commit
